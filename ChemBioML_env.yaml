@@ -151,4 +151,3 @@ dependencies:
     - websocket-client==1.6.3
     - widgetsnbextension==3.6.6
     - xarray==2023.9.0
-prefix: /Users/mon/opt/anaconda3/envs/ChemBioML
