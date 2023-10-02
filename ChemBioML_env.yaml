@@ -22,6 +22,7 @@ dependencies:
     - argon2-cffi==23.1.0
     - argon2-cffi-bindings==21.2.0
     - arrow==1.2.3
+    - art==6.1
     - asttokens==2.4.0
     - async-lru==2.0.4
     - attrs==23.1.0
@@ -104,6 +105,7 @@ dependencies:
     - ptyprocess==0.7.0
     - pure-eval==0.2.2
     - pyarrow==13.0.0
+    - pycm==4.0
     - pycparser==2.21
     - pygments==2.16.1
     - pyparsing==3.1.1
@@ -149,3 +151,4 @@ dependencies:
     - websocket-client==1.6.3
     - widgetsnbextension==3.6.6
     - xarray==2023.9.0
+prefix: /Users/mon/opt/anaconda3/envs/ChemBioML
