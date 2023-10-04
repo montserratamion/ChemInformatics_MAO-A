@@ -1,3 +1,6 @@
+### Project status: ON GOING
+
+
 # Cheminformatics - Machine Learning MAO-A project
 
 <img src="ML_mao.gif"  width="40%">
