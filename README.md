@@ -43,15 +43,15 @@ The complete data set for MAO-A was obtained from ChemMBL can be found here:
 
 ## 3. Repository Structure
 
-### 1_Exploratory_Analysis
+### [1_Exploratory_Analysis](https://github.com/montserratamion/ChemInformatics_MAO-A/blob/main/1_Exploratory_Analysis/1_Exploratory_Analysis.ipynb)
 
 In this directory you will find the first steps taken to cleand and apply a structural exploratory analysis of the MAO-A data set of CheMBL.
 
-### 2_RandomForest_ML
+### [2_RandomForest_ML](https://github.com/montserratamion/ChemInformatics_MAO-A/blob/main/2_RandomForest_ML/2_RandomForest_ML-MAO-A.ipynb)
 
 In this project I used the dataframes obtained in the exploratory analysis to train a Random Forest model and make predictions. I obtained a model with  Area Under the Receiver Operating Characteristic Curve (ROC AUC).
 
-### 3_CNN_DL
+### [3_CNN_DL](https://github.com/montserratamion/ChemInformatics_MAO-A/blob/main/3_CNN_DL/3_CNN_DL-MAO-A.ipynb)
 
 
 
